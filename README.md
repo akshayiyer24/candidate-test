@@ -16,9 +16,9 @@ This is the candidate test for LifeSite developers.
 ## Instructions
 * Use NodeJS, Express, Mongo, and Angular to create a CRUD application. It can be anything you want - a list of ToDos, 
 list of super heroes (or villains), the choice is yours.
- * Use Mongoose as your hook into Mongo.
- * Display the list **outside** of the Welcome page (you will need to create an angular route).
- * Try to keep your components small and modular; separation of concerns and the DRY principle will score you big bonus
+* Use Mongoose as your hook into Mongo.
+* Display the list **outside** of the Welcome page (you will need to create an angular route).
+* Try to keep your components small and modular; separation of concerns and the DRY principle will score you big bonus
  points.
  
 ## Extra Credit
